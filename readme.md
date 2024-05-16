@@ -25,4 +25,4 @@ Cuando las lineas 11, 12, 19 y 20 estan comentadas, es decir que no estan en fun
 
 #### Imagen del punto 2.b):
 
-![Punto2bOK] (https://github.com/NACXIIX/ASO2024TPs/blob/main/IMAGENES/grafico_comensales.png)
+![Punto2bOK](https://github.com/NACXIIX/ASO2024TPs/blob/main/IMAGENES/grafico_comensales.png)
