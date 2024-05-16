@@ -17,8 +17,6 @@ Cuando las lineas 11, 12, 19 y 20 estan comentadas, es decir que no estan en fun
 
 ## PUNTO 2
 
-### c)
-
 #### Imagen del punto 2.a) funcionando: 
 
 ![Punto2aOK](https://github.com/NACXIIX/ASO2024TPs/blob/main/IMAGENES/punto2a_funcionando.png)
