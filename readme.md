@@ -1,4 +1,4 @@
-# TP N°3 de Arquitectura y Sistemas operativos
+# TP N°3 de Arquitectura y Sistemas Operativos
 
 ## Punto 1
 
@@ -25,3 +25,14 @@ El codigo se encuentra resuelto en la carpeta TP3/tareas/
 #### Imagen del punto 2.b):
 
 ![Punto2bOK](https://github.com/NACXIIX/ASO2024TPs/blob/main/IMAGENES/grafico_comensales.png)
+
+# TP N°4 de Arquitectura y Sistemas Operativos
+
+#### Imagen del punto a)
+![PuntoAOK](https://github.com/NACXIIX/ASO2024TPs/blob/main/IMAGENES/TP4_A_docker-compose-s_servicios_creados_corriendo.png)
+
+#### Imagen del punto b)
+![PuntoBOK](https://github.com/NACXIIX/ASO2024TPs/blob/main/IMAGENES/TP4_B_phpmyadmin_y_nginx.png)
+
+#### Imagen del punto c)
+![PuntoCOK](https://github.com/NACXIIX/ASO2024TPs/blob/main/IMAGENES/TP4_C_facultadlocalhost.png)
