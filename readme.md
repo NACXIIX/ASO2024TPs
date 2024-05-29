@@ -26,6 +26,10 @@ El codigo se encuentra resuelto en la carpeta TP3/tareas/
 
 ![Punto2bOK](https://github.com/NACXIIX/ASO2024TPs/blob/main/IMAGENES/grafico_comensales.png)
 
+
+
+
+
 # TP N°4 de Arquitectura y Sistemas Operativos
 
 #### Imagen del punto a)
