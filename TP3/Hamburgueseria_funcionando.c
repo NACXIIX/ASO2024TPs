@@ -10,7 +10,7 @@ void *comer_hamburguesa(void *tid)
 {
 	while (1 == 1)
 	{ 
-		while(turno!=(int)tid){ // bucle while que se ejecuta mientras turno sea distinto al valor de tid
+		while(turno!=(int)tid); // bucle while que se ejecuta mientras turno sea distinto al valor de tid
     // INICIO DE LA ZONA CRÍTICA
 		if (cantidad_restante_hamburguesas > 0)
 		{
@@ -20,14 +20,12 @@ void *comer_hamburguesa(void *tid)
 		else
 		{
 			printf("SE TERMINARON LAS HAMBURGUESAS :( \n");
-
+			turno = (turno + 1)% NUMBER_OF_THREADS;
 			pthread_exit(NULL); // forzar terminacion del hilo
 		}
-		
-		turno = (turno + 1)% NUMBER_OF_THREADS; // en cada vuelta del bucle le aumentamos 1 al valor de turno y le hacemos el modulo al valor del valor de NUMBER_OF_THREADS que es 2.
-		}
+	
     // SALIDA DE LA ZONA CRÍTICA   
-
+		turno = (turno + 1)% NUMBER_OF_THREADS; // en cada vuelta del bucle le aumentamos 1 al valor de turno y le hacemos el modulo al valor del valor de NUMBER_OF_THREADS que es 2.
 	}
 }
 
