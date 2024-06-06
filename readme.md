@@ -19,7 +19,7 @@ Cuando las lineas 11, 12, 19 y 20 estan comentadas, es decir que no estan en fun
 
 #### Imagen del punto 2.a) funcionando: 
 
-![Punto2aOK](https://github.com/NACXIIX/ASO2024TPs/blob/main/IMAGENES/punto2a_funcionando.png)
+![Punto2aOK](https://github.com/NACXIIX/ASO2024TPs/blob/main/TP3/IMAGENES/punto2a_funcionando.png)
 El codigo se encuentra resuelto en la carpeta TP3/tareas/
 
 #### Imagen del punto 2.b):
